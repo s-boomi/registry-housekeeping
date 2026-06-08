@@ -9,7 +9,6 @@
 *.bbl
 ivoatexmeta.tex
 *.log
-*.html
 *.zip
 *.fdb_latexmk
 *.fls

@@ -26,3 +26,7 @@ For any questions or issues, please contact the maintainers or create an issue o
 
 ## Acknowledgments
 We would like to thank all the contributors and members of the IVOA Registry WG for their efforts and support.
+
+
+
+
