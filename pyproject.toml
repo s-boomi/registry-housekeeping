@@ -1,0 +1,17 @@
+[project]
+name = "registry-housekeeping"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "astropy>=7.2.0",
+    "pandas>=3.0.3",
+    "pyvo>=1.9.0",
+    "requests>=2.34.2",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.3.0",
+]
